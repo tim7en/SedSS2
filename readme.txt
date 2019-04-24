@@ -1,3 +1,11 @@
+Requirements:
+------------
+R-portable version 2.2.1
+GoogleChromePortable version 2.3.6
+Download & locate both files in ~UserDir/SedSS2/ folder.
+
+About:
+
 I. Name
 ------------
 Sediment fingerprinting tool, version 2.0.(Sed-Sat V.2.0.)
